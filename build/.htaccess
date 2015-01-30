@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "Enter you password to see these awesome docs yo"
-AuthUserFile .htpasswd
+AuthUserFile /home5/metawork/public_html/heavenspot/odyssey/build/.htpasswd
 Require valid-user
