@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Enter you password to see these awesome docs yo"
+AuthUserFile /.htpasswd
+Require valid-user
